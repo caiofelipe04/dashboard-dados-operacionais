@@ -1,0 +1,701 @@
+﻿Carimbo de data/hora,Data da abordagem,Instrutor,Chapa do motorista,Nome do motorista,Tipo de abordagem,Utiliza o aplicativo,Motivo se não utiliza,E-mail
+03/11/2025 09:10:51,03/11/2025,Instrutor B,1374,Pedro Cardoso,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+04/11/2025 10:01:25,04/11/2025,Instrutor A,1333,André Souza,Uso de celular,Sim,,instrutor.a@exemplo.com
+04/11/2025 13:09:05,04/11/2025,Instrutor A,1090,Jefferson Rocha,Fadiga,Não,Celular sem memória,instrutor.a@exemplo.com
+05/11/2025 09:51:50,04/11/2025,Instrutor B,1680,Daniel Vieira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+05/11/2025 10:12:52,05/11/2025,Instrutor C,1315,Anderson Ribeiro,Uso de celular,Não,Problema no cadastro,instrutor.c@exemplo.com
+06/11/2025 09:01:04,05/11/2025,Instrutor A,1033,Mateus Almeida,Uso de celular,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+06/11/2025 10:02:39,06/11/2025,Instrutor A,1485,Leandro Gomes,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+06/11/2025 13:07:02,06/11/2025,Instrutor A,1663,Cristiano Pinto,Excesso de velocidade,Não,Problema no cadastro,instrutor.a@exemplo.com
+06/11/2025 15:01:24,06/11/2025,Instrutor B,1368,Elias Rocha,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+06/11/2025 15:34:50,06/11/2025,Instrutor A,1558,Vinícius Nascimento,Fadiga,Não,Sem internet no celular,instrutor.a@exemplo.com
+06/11/2025 16:15:40,06/11/2025,Instrutor B,1558,Vinícius Nascimento,Frenagem brusca,Não,Esqueceu a senha,instrutor.b@exemplo.com
+07/11/2025 12:34:52,07/11/2025,Instrutor A,1088,Gustavo Dias,Uso de celular,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+07/11/2025 14:22:59,07/11/2025,Instrutor C,1512,Sérgio Castro,Cinto de segurança,Não,Esqueceu a senha,instrutor.c@exemplo.com
+07/11/2025 15:33:22,07/11/2025,Instrutor A,1597,Reginaldo Ribeiro,Fadiga,Não,Problema no cadastro,instrutor.a@exemplo.com
+07/11/2025 16:30:03,06/11/2025,Instrutor A,1434,André Moura,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+08/11/2025 13:38:14,07/11/2025,Instrutor A,1143,Gustavo Monteiro,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+11/11/2025 11:53:51,11/11/2025,Instrutor B,1124,Adriano Andrade,Frenagem brusca,Não,Celular sem memória,instrutor.b@exemplo.com
+12/11/2025 13:58:37,11/11/2025,Instrutor B,1606,André Barbosa,Uso de celular,Não,Problema no cadastro,instrutor.b@exemplo.com
+13/11/2025 10:21:45,12/11/2025,Instrutor A,1088,Gustavo Dias,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+13/11/2025 10:49:07,13/11/2025,Instrutor A,1039,Wagner Carvalho,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+13/11/2025 11:38:14,12/11/2025,Instrutor B,1338,Ricardo Farias,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+13/11/2025 14:50:40,13/11/2025,Instrutor A,1174,Carlos Farias,Uso de celular,Sim,,instrutor.a@exemplo.com
+14/11/2025 17:50:22,14/11/2025,Instrutor A,1619,Marcos Martins,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+14/11/2025 18:25:37,13/11/2025,Instrutor C,1433,Renato Miranda,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+15/11/2025 10:11:46,14/11/2025,Instrutor A,1646,Sérgio Monteiro,Uso de celular,Não,Sem internet no celular,instrutor.a@exemplo.com
+18/11/2025 15:09:21,18/11/2025,Instrutor A,1236,Sérgio Ribeiro,Excesso de velocidade,Não,Problema no cadastro,instrutor.a@exemplo.com
+18/11/2025 17:02:11,18/11/2025,Instrutor C,1441,João Martins,Fadiga,Não,Problema no cadastro,instrutor.c@exemplo.com
+19/11/2025 09:22:16,19/11/2025,Instrutor A,1324,Roberto Nunes,Uso de celular,Sim,,instrutor.a@exemplo.com
+19/11/2025 09:52:45,19/11/2025,Instrutor A,1264,Bruno Rodrigues,Uso de celular,Não,Celular sem memória,instrutor.a@exemplo.com
+19/11/2025 14:10:56,19/11/2025,Instrutor A,1566,Fernando Costa,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+19/11/2025 15:50:55,19/11/2025,Instrutor A,1414,Marcos Nunes,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+20/11/2025 08:18:01,20/11/2025,Instrutor A,1668,Nelson Teixeira,Fadiga,Sim,,instrutor.a@exemplo.com
+21/11/2025 17:57:30,21/11/2025,Instrutor C,1197,Mateus Rocha,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+22/11/2025 14:10:03,21/11/2025,Instrutor B,1547,Ricardo Correia,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+22/11/2025 14:10:46,21/11/2025,Instrutor A,1439,Márcio Nunes,Fadiga,Sim,,instrutor.a@exemplo.com
+24/11/2025 16:16:42,24/11/2025,Instrutor B,1655,Vinícius Miranda,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+26/11/2025 09:01:13,25/11/2025,Instrutor B,1143,Gustavo Monteiro,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+26/11/2025 10:03:23,25/11/2025,Instrutor B,1448,Fernando Araújo,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+26/11/2025 12:50:25,26/11/2025,Instrutor A,1607,Valdir Souza,Cinto de segurança,Não,Celular sem memória,instrutor.a@exemplo.com
+27/11/2025 11:53:17,27/11/2025,Instrutor A,1372,André Pinto,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+27/11/2025 13:56:24,27/11/2025,Instrutor B,1264,Bruno Rodrigues,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+27/11/2025 14:52:33,27/11/2025,Instrutor B,1374,Pedro Cardoso,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+27/11/2025 18:22:51,27/11/2025,Instrutor B,1207,Thiago Machado,Fadiga,Sim,,instrutor.b@exemplo.com
+28/11/2025 10:10:13,28/11/2025,Instrutor A,1229,Mateus Batista,Excesso de velocidade,Não,Celular sem memória,instrutor.a@exemplo.com
+28/11/2025 16:51:36,28/11/2025,Instrutor B,1236,Sérgio Ribeiro,Uso de celular,Sim,,instrutor.b@exemplo.com
+29/11/2025 11:30:19,28/11/2025,Instrutor C,1598,Wagner Machado,Fadiga,Sim,,instrutor.c@exemplo.com
+01/12/2025 09:24:35,01/12/2025,Instrutor B,1164,Reginaldo Farias,Frenagem brusca,Não,Celular sem memória,instrutor.b@exemplo.com
+01/12/2025 09:59:06,01/12/2025,Instrutor B,1624,Eduardo Carvalho,Excesso de velocidade,Não,Celular sem memória,instrutor.b@exemplo.com
+01/12/2025 17:37:33,01/12/2025,Instrutor B,1282,Rafael Martins,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+01/12/2025 18:09:53,01/12/2025,Instrutor C,1443,Rafael Barbosa,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+02/12/2025 12:19:17,02/12/2025,Instrutor A,1491,Renato Freitas,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+02/12/2025 14:09:39,02/12/2025,Instrutor B,1132,Carlos Mendes,Uso de celular,Sim,,instrutor.b@exemplo.com
+02/12/2025 14:16:24,02/12/2025,Instrutor B,1168,Thiago Nascimento,Uso de celular,Sim,,instrutor.b@exemplo.com
+03/12/2025 11:08:19,03/12/2025,Instrutor B,1026,Wagner Silva,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+03/12/2025 13:44:15,02/12/2025,Instrutor A,1247,Wagner Ramos,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+03/12/2025 16:55:23,03/12/2025,Instrutor B,1209,Alexandre Silva,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+03/12/2025 18:05:12,03/12/2025,Instrutor A,1406,Nelson Nunes,Fadiga,Sim,,instrutor.a@exemplo.com
+04/12/2025 10:53:57,04/12/2025,Instrutor B,1615,Leandro Miranda,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+04/12/2025 11:53:03,04/12/2025,Instrutor B,1012,João Oliveira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+04/12/2025 12:23:52,04/12/2025,Instrutor C,1047,Renato Barbosa,Frenagem brusca,Não,Problema no cadastro,instrutor.c@exemplo.com
+04/12/2025 16:25:08,04/12/2025,Instrutor A,1058,Fábio Monteiro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+05/12/2025 08:10:54,05/12/2025,Instrutor A,1434,André Moura,Fadiga,Sim,,instrutor.a@exemplo.com
+05/12/2025 12:45:45,05/12/2025,Instrutor A,1615,Leandro Miranda,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+05/12/2025 15:38:28,04/12/2025,Instrutor B,1277,André Araújo,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+05/12/2025 15:58:08,05/12/2025,Instrutor C,1020,Wagner Lima,Uso de celular,Não,Esqueceu a senha,instrutor.c@exemplo.com
+05/12/2025 18:13:17,05/12/2025,Instrutor C,1206,Renato Moura,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+08/12/2025 15:19:43,08/12/2025,Instrutor A,1681,Fernando Nascimento,Uso de celular,Sim,,instrutor.a@exemplo.com
+09/12/2025 09:30:04,09/12/2025,Instrutor B,1074,Anderson Martins,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+09/12/2025 18:45:57,09/12/2025,Instrutor A,1035,Wagner Santos,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+09/12/2025 18:53:53,09/12/2025,Instrutor B,1592,Diego Nunes,Uso de celular,Sim,,instrutor.b@exemplo.com
+10/12/2025 08:41:31,10/12/2025,Instrutor B,1691,Nelson Pereira,Excesso de velocidade,Não,Celular sem memória,instrutor.b@exemplo.com
+10/12/2025 08:51:54,10/12/2025,Instrutor B,1439,Márcio Nunes,Uso de celular,Sim,,instrutor.b@exemplo.com
+10/12/2025 17:52:12,10/12/2025,Instrutor A,1147,Reginaldo Araújo,Uso de celular,Sim,,instrutor.a@exemplo.com
+11/12/2025 15:58:42,11/12/2025,Instrutor B,1371,Alexandre Ribeiro,Frenagem brusca,Não,Esqueceu a senha,instrutor.b@exemplo.com
+12/12/2025 10:43:57,12/12/2025,Instrutor C,1441,João Martins,Excesso de velocidade,Não,Celular sem memória,instrutor.c@exemplo.com
+12/12/2025 12:06:30,11/12/2025,Instrutor B,1211,Valdir Barbosa,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+12/12/2025 13:23:16,12/12/2025,Instrutor B,1597,Reginaldo Ribeiro,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+12/12/2025 18:37:37,12/12/2025,Instrutor A,1028,Elias Farias,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+15/12/2025 10:49:05,15/12/2025,Instrutor C,1470,Fernando Pinto,Uso de celular,Sim,,instrutor.c@exemplo.com
+15/12/2025 11:21:26,15/12/2025,Instrutor C,1132,Carlos Mendes,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+15/12/2025 18:24:33,15/12/2025,Instrutor C,1558,Vinícius Nascimento,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+16/12/2025 08:28:17,16/12/2025,Instrutor A,1388,Márcio Costa,Cinto de segurança,Não,Sem internet no celular,instrutor.a@exemplo.com
+16/12/2025 09:08:39,16/12/2025,Instrutor A,1433,Renato Miranda,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+16/12/2025 09:24:32,16/12/2025,Instrutor C,1641,Edson Farias,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+16/12/2025 16:12:46,16/12/2025,Instrutor B,1028,Elias Farias,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+17/12/2025 08:14:14,17/12/2025,Instrutor C,1037,Cristiano Almeida,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+17/12/2025 10:21:57,17/12/2025,Instrutor B,1669,Renato Andrade,Cinto de segurança,Não,Esqueceu a senha,instrutor.b@exemplo.com
+17/12/2025 11:01:43,16/12/2025,Instrutor A,1218,Renato Mendes,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+17/12/2025 12:29:46,17/12/2025,Instrutor C,1513,Daniel Rodrigues,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+19/12/2025 13:45:41,19/12/2025,Instrutor B,1275,Alexandre Souza,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+19/12/2025 17:03:38,19/12/2025,Instrutor B,1410,Fábio Lima,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+23/12/2025 08:19:26,23/12/2025,Instrutor A,1647,Anderson Silva,Uso de celular,Não,Celular sem memória,instrutor.a@exemplo.com
+23/12/2025 08:42:05,23/12/2025,Instrutor B,1056,Mateus Miranda,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+23/12/2025 09:32:46,23/12/2025,Instrutor B,1449,Rodrigo Lopes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+23/12/2025 12:10:02,23/12/2025,Instrutor A,1110,Nelson Machado,Fadiga,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+23/12/2025 14:28:24,22/12/2025,Instrutor A,1264,Bruno Rodrigues,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+23/12/2025 17:12:49,23/12/2025,Instrutor C,1688,Sérgio Rocha,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+24/12/2025 15:18:16,24/12/2025,Instrutor C,1176,Cláudio Souza,Excesso de velocidade,Não,Esqueceu a senha,instrutor.c@exemplo.com
+24/12/2025 18:20:27,24/12/2025,Instrutor A,1147,Reginaldo Araújo,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+25/12/2025 09:23:52,25/12/2025,Instrutor B,1047,Renato Barbosa,Excesso de velocidade,Não,Celular sem memória,instrutor.b@exemplo.com
+25/12/2025 09:49:32,24/12/2025,Instrutor B,1147,Reginaldo Araújo,Uso de celular,Sim,,instrutor.b@exemplo.com
+25/12/2025 15:51:26,25/12/2025,Instrutor B,1460,Bruno Andrade,Cinto de segurança,Não,Esqueceu a senha,instrutor.b@exemplo.com
+26/12/2025 10:06:26,26/12/2025,Instrutor B,1491,Renato Freitas,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+26/12/2025 10:42:41,25/12/2025,Instrutor C,1487,Márcio Pinto,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+26/12/2025 17:24:49,26/12/2025,Instrutor B,1649,Cláudio Santos,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+29/12/2025 08:45:55,29/12/2025,Instrutor A,1197,Mateus Rocha,Cinto de segurança,Não,Sem internet no celular,instrutor.a@exemplo.com
+29/12/2025 10:30:58,29/12/2025,Instrutor B,1439,Márcio Nunes,Cinto de segurança,Não,Celular sem memória,instrutor.b@exemplo.com
+29/12/2025 15:22:42,29/12/2025,Instrutor B,1374,Pedro Cardoso,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+29/12/2025 18:55:21,29/12/2025,Instrutor B,1338,Ricardo Farias,Uso de celular,Não,Sem internet no celular,instrutor.b@exemplo.com
+30/12/2025 08:00:41,30/12/2025,Instrutor B,1434,André Moura,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+30/12/2025 14:25:52,30/12/2025,Instrutor B,1254,Reginaldo Souza,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+30/12/2025 15:20:15,30/12/2025,Instrutor B,1666,Ricardo Pereira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+31/12/2025 14:02:35,31/12/2025,Instrutor B,1249,Wellington Nascimento,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+01/01/2026 15:28:20,31/12/2025,Instrutor C,1264,Bruno Rodrigues,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+01/01/2026 18:19:56,01/01/2026,Instrutor C,1039,Wagner Carvalho,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+02/01/2026 08:52:14,02/01/2026,Instrutor C,1591,Alexandre Monteiro,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+02/01/2026 08:57:10,02/01/2026,Instrutor B,1460,Bruno Andrade,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+02/01/2026 11:12:07,02/01/2026,Instrutor B,1452,Fábio Pereira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+02/01/2026 13:06:48,02/01/2026,Instrutor B,1096,Gustavo Santos,Fadiga,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+02/01/2026 13:53:40,02/01/2026,Instrutor B,1671,Bruno Rocha,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+02/01/2026 18:23:45,02/01/2026,Instrutor C,1206,Renato Moura,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+05/01/2026 13:32:56,05/01/2026,Instrutor B,1446,Paulo Castro,Fadiga,Não,Problema no cadastro,instrutor.b@exemplo.com
+05/01/2026 15:29:42,05/01/2026,Instrutor B,1017,Marcos Oliveira,Frenagem brusca,Não,Problema no cadastro,instrutor.b@exemplo.com
+05/01/2026 16:59:27,05/01/2026,Instrutor A,1105,Lucas Nascimento,Frenagem brusca,Não,Sem internet no celular,instrutor.a@exemplo.com
+05/01/2026 17:11:46,05/01/2026,Instrutor C,1243,Nelson Ferreira,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+06/01/2026 13:18:28,06/01/2026,Instrutor C,1409,Márcio Dias,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+06/01/2026 16:19:53,06/01/2026,Instrutor B,1142,Rodrigo Araújo,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+07/01/2026 10:32:34,07/01/2026,Instrutor A,1558,Vinícius Nascimento,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+07/01/2026 11:13:39,07/01/2026,Instrutor C,1056,Mateus Miranda,Uso de celular,Não,Problema no cadastro,instrutor.c@exemplo.com
+07/01/2026 14:51:00,07/01/2026,Instrutor C,1105,Lucas Nascimento,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+07/01/2026 17:42:45,07/01/2026,Instrutor A,1301,Edson Almeida,Uso de celular,Sim,,instrutor.a@exemplo.com
+08/01/2026 11:17:48,08/01/2026,Instrutor A,1254,Reginaldo Souza,Fadiga,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+08/01/2026 12:13:48,08/01/2026,Instrutor A,1646,Sérgio Monteiro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+08/01/2026 18:47:35,08/01/2026,Instrutor B,1430,Bruno Monteiro,Uso de celular,Não,Sem internet no celular,instrutor.b@exemplo.com
+10/01/2026 12:44:42,09/01/2026,Instrutor A,1522,Cláudio Pinto,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+12/01/2026 16:03:00,12/01/2026,Instrutor C,1224,Valdir Duarte,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+13/01/2026 11:58:40,13/01/2026,Instrutor C,1264,Bruno Rodrigues,Uso de celular,Sim,,instrutor.c@exemplo.com
+13/01/2026 17:12:49,13/01/2026,Instrutor C,1411,Adriano Duarte,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+14/01/2026 09:11:11,14/01/2026,Instrutor B,1559,Jefferson Silva,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+15/01/2026 10:37:54,15/01/2026,Instrutor A,1491,Renato Freitas,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+15/01/2026 10:59:20,15/01/2026,Instrutor B,1037,Cristiano Almeida,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+15/01/2026 12:31:50,15/01/2026,Instrutor B,1485,Leandro Gomes,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+16/01/2026 10:33:04,16/01/2026,Instrutor A,1512,Sérgio Castro,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+16/01/2026 13:14:56,16/01/2026,Instrutor B,1619,Marcos Martins,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+16/01/2026 17:33:30,16/01/2026,Instrutor A,1391,Elias Batista,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+19/01/2026 08:43:56,19/01/2026,Instrutor C,1552,Alexandre Lopes,Fadiga,Sim,,instrutor.c@exemplo.com
+19/01/2026 09:10:49,19/01/2026,Instrutor A,1239,Lucas Teixeira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+19/01/2026 18:22:28,19/01/2026,Instrutor C,1182,Wagner Batista,Uso de celular,Sim,,instrutor.c@exemplo.com
+20/01/2026 11:55:43,20/01/2026,Instrutor A,1452,Fábio Pereira,Excesso de velocidade,Não,Sem internet no celular,instrutor.a@exemplo.com
+20/01/2026 12:26:24,20/01/2026,Instrutor A,1567,Fábio Almeida,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+20/01/2026 14:41:52,20/01/2026,Instrutor B,1143,Gustavo Monteiro,Uso de celular,Não,Esqueceu a senha,instrutor.b@exemplo.com
+20/01/2026 16:28:31,19/01/2026,Instrutor C,1226,Fernando Vieira,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+20/01/2026 16:46:18,19/01/2026,Instrutor C,1518,Lucas Santos,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+21/01/2026 08:41:46,21/01/2026,Instrutor A,1439,Márcio Nunes,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+21/01/2026 09:04:03,20/01/2026,Instrutor B,1373,Thiago Miranda,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+21/01/2026 09:22:59,21/01/2026,Instrutor B,1143,Gustavo Monteiro,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+22/01/2026 13:13:26,22/01/2026,Instrutor A,1598,Wagner Machado,Cinto de segurança,Não,Esqueceu a senha,instrutor.a@exemplo.com
+22/01/2026 14:50:51,22/01/2026,Instrutor A,1581,Diego Oliveira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+22/01/2026 15:24:25,22/01/2026,Instrutor B,1617,Valdir Batista,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+22/01/2026 17:25:34,22/01/2026,Instrutor A,1347,Ricardo Santos,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+22/01/2026 18:23:00,22/01/2026,Instrutor B,1251,Eduardo Dias,Uso de celular,Sim,,instrutor.b@exemplo.com
+24/01/2026 12:12:07,23/01/2026,Instrutor A,1558,Vinícius Nascimento,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+26/01/2026 13:31:28,26/01/2026,Instrutor B,1439,Márcio Nunes,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+26/01/2026 14:17:53,26/01/2026,Instrutor A,1597,Reginaldo Ribeiro,Uso de celular,Não,Celular sem memória,instrutor.a@exemplo.com
+26/01/2026 16:29:41,26/01/2026,Instrutor C,1254,Reginaldo Souza,Excesso de velocidade,Não,Esqueceu a senha,instrutor.c@exemplo.com
+27/01/2026 08:35:16,27/01/2026,Instrutor C,1249,Wellington Nascimento,Fadiga,Sim,,instrutor.c@exemplo.com
+27/01/2026 08:54:32,27/01/2026,Instrutor B,1474,Paulo Pinto,Cinto de segurança,Não,Sem internet no celular,instrutor.b@exemplo.com
+27/01/2026 13:27:10,26/01/2026,Instrutor A,1246,Marcos Dias,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+27/01/2026 15:21:22,26/01/2026,Instrutor A,1479,Jefferson Monteiro,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+28/01/2026 09:16:23,28/01/2026,Instrutor A,1275,Alexandre Souza,Uso de celular,Sim,,instrutor.a@exemplo.com
+28/01/2026 09:25:23,28/01/2026,Instrutor A,1373,Thiago Miranda,Uso de celular,Sim,,instrutor.a@exemplo.com
+28/01/2026 10:47:46,28/01/2026,Instrutor B,1293,Valdir Martins,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+28/01/2026 10:57:34,27/01/2026,Instrutor A,1176,Cláudio Souza,Uso de celular,Sim,,instrutor.a@exemplo.com
+28/01/2026 12:31:35,27/01/2026,Instrutor B,1332,Bruno Barbosa,Uso de celular,Sim,,instrutor.b@exemplo.com
+28/01/2026 13:25:14,28/01/2026,Instrutor B,1651,Mateus Campos,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+28/01/2026 14:30:58,28/01/2026,Instrutor B,1667,Jefferson Moura,Excesso de velocidade,Não,Problema no cadastro,instrutor.b@exemplo.com
+28/01/2026 16:40:53,28/01/2026,Instrutor A,1688,Sérgio Rocha,Uso de celular,Não,Sem internet no celular,instrutor.a@exemplo.com
+28/01/2026 17:43:10,28/01/2026,Instrutor C,1434,André Moura,Excesso de velocidade,Não,Esqueceu a senha,instrutor.c@exemplo.com
+29/01/2026 11:33:25,29/01/2026,Instrutor B,1113,Carlos Cardoso,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+29/01/2026 14:23:37,29/01/2026,Instrutor B,1218,Renato Mendes,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+02/02/2026 17:00:32,02/02/2026,Instrutor B,1698,Adriano Martins,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+03/02/2026 11:26:51,03/02/2026,Instrutor B,1663,Cristiano Pinto,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+04/02/2026 10:08:40,04/02/2026,Instrutor A,1221,Márcio Ramos,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+04/02/2026 10:33:25,04/02/2026,Instrutor A,1090,Jefferson Rocha,Uso de celular,Sim,,instrutor.a@exemplo.com
+04/02/2026 12:13:09,03/02/2026,Instrutor A,1349,Gustavo Teixeira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+04/02/2026 17:10:41,04/02/2026,Instrutor B,1022,Diego Pinto,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+04/02/2026 18:52:18,04/02/2026,Instrutor A,1264,Bruno Rodrigues,Excesso de velocidade,Não,Sem internet no celular,instrutor.a@exemplo.com
+05/02/2026 11:53:26,05/02/2026,Instrutor B,1605,Daniel Moreira,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+07/02/2026 18:32:16,06/02/2026,Instrutor C,1124,Adriano Andrade,Uso de celular,Sim,,instrutor.c@exemplo.com
+09/02/2026 08:57:49,09/02/2026,Instrutor A,1081,Rodrigo Rocha,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+09/02/2026 09:14:24,09/02/2026,Instrutor C,1693,Josué Duarte,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+09/02/2026 16:27:14,09/02/2026,Instrutor B,1345,Sérgio Pereira,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+09/02/2026 16:43:26,09/02/2026,Instrutor A,1626,Daniel Dias,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+10/02/2026 16:32:48,09/02/2026,Instrutor C,1411,Adriano Duarte,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+11/02/2026 09:09:27,11/02/2026,Instrutor C,1617,Valdir Batista,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+11/02/2026 09:33:00,11/02/2026,Instrutor C,1389,Pedro Batista,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+11/02/2026 17:06:27,10/02/2026,Instrutor A,1532,Fábio Souza,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+12/02/2026 13:39:17,12/02/2026,Instrutor C,1095,Cristiano Vieira,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+12/02/2026 16:26:16,11/02/2026,Instrutor C,1678,Felipe Campos,Uso de celular,Sim,,instrutor.c@exemplo.com
+12/02/2026 16:30:11,12/02/2026,Instrutor A,1170,Cláudio Duarte,Uso de celular,Sim,,instrutor.a@exemplo.com
+13/02/2026 11:28:50,13/02/2026,Instrutor C,1349,Gustavo Teixeira,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+13/02/2026 13:49:45,13/02/2026,Instrutor A,1430,Bruno Monteiro,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+13/02/2026 13:51:35,13/02/2026,Instrutor A,1124,Adriano Andrade,Uso de celular,Sim,,instrutor.a@exemplo.com
+16/02/2026 09:16:14,16/02/2026,Instrutor C,1373,Thiago Miranda,Uso de celular,Sim,,instrutor.c@exemplo.com
+17/02/2026 14:37:12,17/02/2026,Instrutor A,1125,Reginaldo Oliveira,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+17/02/2026 14:39:41,17/02/2026,Instrutor B,1247,Wagner Ramos,Uso de celular,Não,Sem internet no celular,instrutor.b@exemplo.com
+17/02/2026 17:32:33,17/02/2026,Instrutor B,1380,Roberto Ribeiro,Uso de celular,Sim,,instrutor.b@exemplo.com
+17/02/2026 18:00:51,16/02/2026,Instrutor A,1239,Lucas Teixeira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+18/02/2026 11:29:59,18/02/2026,Instrutor A,1406,Nelson Nunes,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+18/02/2026 16:58:37,18/02/2026,Instrutor A,1439,Márcio Nunes,Fadiga,Sim,,instrutor.a@exemplo.com
+18/02/2026 18:00:10,17/02/2026,Instrutor B,1207,Thiago Machado,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+18/02/2026 18:31:28,17/02/2026,Instrutor C,1479,Jefferson Monteiro,Cinto de segurança,Não,Problema no cadastro,instrutor.c@exemplo.com
+19/02/2026 16:04:32,19/02/2026,Instrutor A,1617,Valdir Batista,Fadiga,Sim,,instrutor.a@exemplo.com
+20/02/2026 13:49:29,20/02/2026,Instrutor B,1594,Eduardo Ramos,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+20/02/2026 16:52:50,20/02/2026,Instrutor C,1442,Bruno Dias,Uso de celular,Não,Problema no cadastro,instrutor.c@exemplo.com
+23/02/2026 14:40:50,23/02/2026,Instrutor B,1068,Fernando Rocha,Uso de celular,Sim,,instrutor.b@exemplo.com
+23/02/2026 18:47:52,23/02/2026,Instrutor A,1306,Cristiano Nunes,Uso de celular,Sim,,instrutor.a@exemplo.com
+24/02/2026 11:57:36,24/02/2026,Instrutor A,1474,Paulo Pinto,Fadiga,Sim,,instrutor.a@exemplo.com
+24/02/2026 13:33:34,23/02/2026,Instrutor A,1470,Fernando Pinto,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+24/02/2026 15:47:12,24/02/2026,Instrutor B,1237,Thiago Cardoso,Excesso de velocidade,Não,Celular sem memória,instrutor.b@exemplo.com
+25/02/2026 08:48:54,25/02/2026,Instrutor C,1206,Renato Moura,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+25/02/2026 15:57:56,25/02/2026,Instrutor B,1411,Adriano Duarte,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+25/02/2026 17:22:09,25/02/2026,Instrutor A,1306,Cristiano Nunes,Excesso de velocidade,Não,Esqueceu a senha,instrutor.a@exemplo.com
+26/02/2026 09:44:33,26/02/2026,Instrutor C,1591,Alexandre Monteiro,Uso de celular,Sim,,instrutor.c@exemplo.com
+26/02/2026 16:02:32,26/02/2026,Instrutor C,1592,Diego Nunes,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+26/02/2026 16:17:25,26/02/2026,Instrutor B,1253,Fábio Freitas,Uso de celular,Não,Esqueceu a senha,instrutor.b@exemplo.com
+27/02/2026 17:06:20,27/02/2026,Instrutor A,1566,Fernando Costa,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+02/03/2026 12:30:39,02/03/2026,Instrutor A,1465,Renato Rodrigues,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+02/03/2026 13:23:54,02/03/2026,Instrutor B,1608,Márcio Andrade,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+03/03/2026 18:14:52,02/03/2026,Instrutor B,1693,Josué Duarte,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+03/03/2026 18:33:34,03/03/2026,Instrutor A,1246,Marcos Dias,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+04/03/2026 10:51:47,03/03/2026,Instrutor B,1615,Leandro Miranda,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+05/03/2026 12:22:01,05/03/2026,Instrutor A,1004,Lucas Miranda,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+05/03/2026 17:36:41,05/03/2026,Instrutor B,1592,Diego Nunes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+05/03/2026 18:06:28,05/03/2026,Instrutor A,1026,Wagner Silva,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+05/03/2026 18:32:31,05/03/2026,Instrutor C,1558,Vinícius Nascimento,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+06/03/2026 13:41:18,06/03/2026,Instrutor A,1584,Wellington Ramos,Uso de celular,Sim,,instrutor.a@exemplo.com
+06/03/2026 15:40:09,06/03/2026,Instrutor A,1532,Fábio Souza,Uso de celular,Sim,,instrutor.a@exemplo.com
+06/03/2026 17:03:25,05/03/2026,Instrutor A,1050,Anderson Castro,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+06/03/2026 17:36:25,06/03/2026,Instrutor C,1251,Eduardo Dias,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+09/03/2026 09:06:04,09/03/2026,Instrutor A,1674,Daniel Teixeira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+09/03/2026 11:42:16,09/03/2026,Instrutor C,1439,Márcio Nunes,Uso de celular,Sim,,instrutor.c@exemplo.com
+09/03/2026 13:47:37,09/03/2026,Instrutor A,1207,Thiago Machado,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+11/03/2026 08:02:42,11/03/2026,Instrutor A,1033,Mateus Almeida,Fadiga,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+11/03/2026 11:15:47,11/03/2026,Instrutor C,1495,Roberto Castro,Uso de celular,Sim,,instrutor.c@exemplo.com
+11/03/2026 15:34:14,11/03/2026,Instrutor B,1371,Alexandre Ribeiro,Frenagem brusca,Não,Celular sem memória,instrutor.b@exemplo.com
+11/03/2026 16:48:05,10/03/2026,Instrutor A,1439,Márcio Nunes,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+11/03/2026 18:56:36,11/03/2026,Instrutor B,1544,Thiago Campos,Uso de celular,Sim,,instrutor.b@exemplo.com
+12/03/2026 08:33:52,12/03/2026,Instrutor A,1297,Alexandre Rodrigues,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+12/03/2026 12:35:28,11/03/2026,Instrutor B,1411,Adriano Duarte,Fadiga,Não,Sem internet no celular,instrutor.b@exemplo.com
+12/03/2026 15:48:30,12/03/2026,Instrutor A,1485,Leandro Gomes,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+12/03/2026 18:24:53,12/03/2026,Instrutor B,1652,Cristiano Pereira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+13/03/2026 08:35:23,12/03/2026,Instrutor C,1157,Leandro Ribeiro,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+13/03/2026 17:51:44,13/03/2026,Instrutor B,1693,Josué Duarte,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+14/03/2026 14:12:54,13/03/2026,Instrutor B,1594,Eduardo Ramos,Excesso de velocidade,Não,Esqueceu a senha,instrutor.b@exemplo.com
+16/03/2026 08:07:49,16/03/2026,Instrutor C,1644,Thiago Moreira,Frenagem brusca,Não,Problema no cadastro,instrutor.c@exemplo.com
+16/03/2026 08:31:13,16/03/2026,Instrutor A,1122,Felipe Ferreira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+16/03/2026 14:04:34,16/03/2026,Instrutor A,1207,Thiago Machado,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+16/03/2026 17:31:12,16/03/2026,Instrutor B,1471,Wagner Cardoso,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+17/03/2026 09:15:40,17/03/2026,Instrutor C,1249,Wellington Nascimento,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+17/03/2026 09:18:17,16/03/2026,Instrutor C,1433,Renato Miranda,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+17/03/2026 11:29:47,17/03/2026,Instrutor A,1688,Sérgio Rocha,Frenagem brusca,Não,Problema no cadastro,instrutor.a@exemplo.com
+17/03/2026 15:44:50,16/03/2026,Instrutor C,1372,André Pinto,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+18/03/2026 12:59:20,17/03/2026,Instrutor B,1522,Cláudio Pinto,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+18/03/2026 13:59:48,18/03/2026,Instrutor B,1372,André Pinto,Excesso de velocidade,Não,Sem internet no celular,instrutor.b@exemplo.com
+18/03/2026 15:40:19,17/03/2026,Instrutor B,1512,Sérgio Castro,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+18/03/2026 17:09:23,18/03/2026,Instrutor C,1631,Vinícius Martins,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+19/03/2026 10:31:14,19/03/2026,Instrutor B,1098,Cláudio Moura,Uso de celular,Não,Sem internet no celular,instrutor.b@exemplo.com
+19/03/2026 11:01:44,19/03/2026,Instrutor A,1579,Rodrigo Ramos,Uso de celular,Não,Celular sem memória,instrutor.a@exemplo.com
+19/03/2026 12:34:23,19/03/2026,Instrutor B,1388,Márcio Costa,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+19/03/2026 12:55:53,19/03/2026,Instrutor A,1226,Fernando Vieira,Cinto de segurança,Não,Esqueceu a senha,instrutor.a@exemplo.com
+19/03/2026 14:50:15,18/03/2026,Instrutor C,1170,Cláudio Duarte,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+19/03/2026 16:18:34,19/03/2026,Instrutor A,1439,Márcio Nunes,Excesso de velocidade,Não,Esqueceu a senha,instrutor.a@exemplo.com
+20/03/2026 08:12:06,20/03/2026,Instrutor C,1598,Wagner Machado,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+20/03/2026 08:39:54,20/03/2026,Instrutor B,1215,Roberto Miranda,Uso de celular,Não,Celular sem memória,instrutor.b@exemplo.com
+20/03/2026 13:07:06,20/03/2026,Instrutor A,1502,Roberto Ramos,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+20/03/2026 14:12:33,20/03/2026,Instrutor A,1567,Fábio Almeida,Cinto de segurança,Não,Esqueceu a senha,instrutor.a@exemplo.com
+23/03/2026 08:23:35,23/03/2026,Instrutor A,1480,Eduardo Lima,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+23/03/2026 08:59:58,23/03/2026,Instrutor A,1585,Edson Correia,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+23/03/2026 16:06:06,23/03/2026,Instrutor A,1462,Diego Gomes,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+23/03/2026 18:11:35,23/03/2026,Instrutor B,1389,Pedro Batista,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+23/03/2026 18:31:33,23/03/2026,Instrutor B,1501,Alexandre Teixeira,Uso de celular,Não,Esqueceu a senha,instrutor.b@exemplo.com
+24/03/2026 13:43:29,24/03/2026,Instrutor A,1479,Jefferson Monteiro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+24/03/2026 16:25:32,24/03/2026,Instrutor A,1082,Diego Nascimento,Excesso de velocidade,Não,Problema no cadastro,instrutor.a@exemplo.com
+24/03/2026 17:17:33,23/03/2026,Instrutor C,1529,Daniel Castro,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+25/03/2026 13:35:20,25/03/2026,Instrutor B,1332,Bruno Barbosa,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+25/03/2026 13:38:15,25/03/2026,Instrutor B,1125,Reginaldo Oliveira,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+27/03/2026 12:05:36,27/03/2026,Instrutor B,1679,Renato Pereira,Fadiga,Sim,,instrutor.b@exemplo.com
+27/03/2026 12:58:35,27/03/2026,Instrutor A,1207,Thiago Machado,Uso de celular,Sim,,instrutor.a@exemplo.com
+27/03/2026 15:28:25,26/03/2026,Instrutor C,1364,Bruno Costa,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+28/03/2026 10:56:19,27/03/2026,Instrutor A,1439,Márcio Nunes,Fadiga,Sim,,instrutor.a@exemplo.com
+28/03/2026 15:22:09,27/03/2026,Instrutor B,1594,Eduardo Ramos,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+30/03/2026 15:11:31,30/03/2026,Instrutor B,1651,Mateus Campos,Uso de celular,Não,Sem internet no celular,instrutor.b@exemplo.com
+31/03/2026 08:43:46,31/03/2026,Instrutor B,1164,Reginaldo Farias,Fadiga,Sim,,instrutor.b@exemplo.com
+31/03/2026 12:02:46,31/03/2026,Instrutor C,1170,Cláudio Duarte,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+31/03/2026 13:22:56,31/03/2026,Instrutor C,1414,Marcos Nunes,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+31/03/2026 16:02:20,31/03/2026,Instrutor B,1513,Daniel Rodrigues,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+31/03/2026 18:54:38,31/03/2026,Instrutor C,1680,Daniel Vieira,Uso de celular,Sim,,instrutor.c@exemplo.com
+01/04/2026 09:14:27,01/04/2026,Instrutor C,1615,Leandro Miranda,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+01/04/2026 17:47:03,01/04/2026,Instrutor A,1373,Thiago Miranda,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+02/04/2026 10:44:44,02/04/2026,Instrutor B,1439,Márcio Nunes,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+02/04/2026 10:48:08,02/04/2026,Instrutor A,1501,Alexandre Teixeira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+02/04/2026 10:48:46,02/04/2026,Instrutor A,1547,Ricardo Correia,Excesso de velocidade,Não,Esqueceu a senha,instrutor.a@exemplo.com
+02/04/2026 12:00:21,02/04/2026,Instrutor C,1460,Bruno Andrade,Excesso de velocidade,Não,Sem internet no celular,instrutor.c@exemplo.com
+02/04/2026 13:22:38,02/04/2026,Instrutor B,1373,Thiago Miranda,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+02/04/2026 15:39:09,02/04/2026,Instrutor A,1573,Rodrigo Almeida,Fadiga,Sim,,instrutor.a@exemplo.com
+02/04/2026 16:13:13,02/04/2026,Instrutor A,1506,Ricardo Lopes,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+02/04/2026 16:39:47,02/04/2026,Instrutor A,1617,Valdir Batista,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+03/04/2026 18:59:36,02/04/2026,Instrutor A,1258,Cristiano Correia,Uso de celular,Sim,,instrutor.a@exemplo.com
+06/04/2026 12:10:03,06/04/2026,Instrutor C,1209,Alexandre Silva,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+07/04/2026 09:01:18,07/04/2026,Instrutor C,1439,Márcio Nunes,Uso de celular,Sim,,instrutor.c@exemplo.com
+07/04/2026 09:57:20,07/04/2026,Instrutor A,1162,André Carvalho,Uso de celular,Sim,,instrutor.a@exemplo.com
+07/04/2026 18:00:04,07/04/2026,Instrutor B,1132,Carlos Mendes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+08/04/2026 11:32:17,08/04/2026,Instrutor A,1368,Elias Rocha,Uso de celular,Sim,,instrutor.a@exemplo.com
+08/04/2026 15:35:59,08/04/2026,Instrutor A,1249,Wellington Nascimento,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+09/04/2026 08:35:17,09/04/2026,Instrutor C,1096,Gustavo Santos,Frenagem brusca,Não,Celular sem memória,instrutor.c@exemplo.com
+09/04/2026 12:58:38,09/04/2026,Instrutor B,1674,Daniel Teixeira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+09/04/2026 15:25:47,08/04/2026,Instrutor C,1691,Nelson Pereira,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+09/04/2026 16:43:39,09/04/2026,Instrutor A,1320,João Pinto,Uso de celular,Não,Celular sem memória,instrutor.a@exemplo.com
+10/04/2026 10:27:58,10/04/2026,Instrutor B,1068,Fernando Rocha,Excesso de velocidade,Não,Problema no cadastro,instrutor.b@exemplo.com
+10/04/2026 13:56:26,10/04/2026,Instrutor C,1512,Sérgio Castro,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+10/04/2026 16:43:51,10/04/2026,Instrutor A,1320,João Pinto,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+11/04/2026 16:34:46,10/04/2026,Instrutor C,1113,Carlos Cardoso,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+13/04/2026 15:08:32,13/04/2026,Instrutor B,1240,Sérgio Martins,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+13/04/2026 17:17:38,13/04/2026,Instrutor A,1129,Jefferson Batista,Excesso de velocidade,Não,Esqueceu a senha,instrutor.a@exemplo.com
+14/04/2026 08:59:17,14/04/2026,Instrutor A,1448,Fernando Araújo,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+14/04/2026 10:59:28,14/04/2026,Instrutor A,1550,Cristiano Farias,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+14/04/2026 11:27:25,14/04/2026,Instrutor A,1338,Ricardo Farias,Uso de celular,Sim,,instrutor.a@exemplo.com
+14/04/2026 12:09:49,13/04/2026,Instrutor C,1073,Thiago Dias,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+14/04/2026 14:31:30,13/04/2026,Instrutor B,1058,Fábio Monteiro,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+14/04/2026 14:39:47,14/04/2026,Instrutor C,1264,Bruno Rodrigues,Frenagem brusca,Não,Sem internet no celular,instrutor.c@exemplo.com
+15/04/2026 09:28:29,15/04/2026,Instrutor B,1073,Thiago Dias,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+15/04/2026 14:47:02,15/04/2026,Instrutor C,1518,Lucas Santos,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+17/04/2026 12:28:25,17/04/2026,Instrutor B,1272,Renato Silva,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+21/04/2026 12:39:58,20/04/2026,Instrutor A,1439,Márcio Nunes,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+21/04/2026 14:26:20,21/04/2026,Instrutor C,1439,Márcio Nunes,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+21/04/2026 15:05:46,21/04/2026,Instrutor A,1678,Felipe Campos,Excesso de velocidade,Não,Sem internet no celular,instrutor.a@exemplo.com
+23/04/2026 09:05:07,23/04/2026,Instrutor B,1118,Bruno Batista,Uso de celular,Sim,,instrutor.b@exemplo.com
+23/04/2026 11:56:29,22/04/2026,Instrutor B,1147,Reginaldo Araújo,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+23/04/2026 16:39:10,23/04/2026,Instrutor A,1100,Wagner Ribeiro,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+24/04/2026 12:19:46,24/04/2026,Instrutor C,1688,Sérgio Rocha,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+25/04/2026 18:55:09,24/04/2026,Instrutor C,1678,Felipe Campos,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+27/04/2026 10:12:00,27/04/2026,Instrutor B,1058,Fábio Monteiro,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+27/04/2026 16:51:00,27/04/2026,Instrutor B,1049,Adriano Miranda,Frenagem brusca,Não,Esqueceu a senha,instrutor.b@exemplo.com
+28/04/2026 08:06:26,28/04/2026,Instrutor A,1372,André Pinto,Excesso de velocidade,Não,Celular sem memória,instrutor.a@exemplo.com
+28/04/2026 10:54:02,28/04/2026,Instrutor A,1573,Rodrigo Almeida,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+28/04/2026 15:05:38,28/04/2026,Instrutor B,1204,Elias Lima,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+28/04/2026 16:52:52,28/04/2026,Instrutor B,1277,André Araújo,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+30/04/2026 12:20:23,30/04/2026,Instrutor C,1345,Sérgio Pereira,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+30/04/2026 17:50:35,29/04/2026,Instrutor B,1020,Wagner Lima,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+04/05/2026 15:46:44,04/05/2026,Instrutor B,1049,Adriano Miranda,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+05/05/2026 09:18:30,04/05/2026,Instrutor C,1683,Carlos Ferreira,Uso de celular,Não,Celular sem memória,instrutor.c@exemplo.com
+05/05/2026 11:39:03,04/05/2026,Instrutor B,1174,Carlos Farias,Uso de celular,Sim,,instrutor.b@exemplo.com
+05/05/2026 12:33:36,05/05/2026,Instrutor B,1211,Valdir Barbosa,Frenagem brusca,Não,Esqueceu a senha,instrutor.b@exemplo.com
+06/05/2026 18:31:31,06/05/2026,Instrutor B,1646,Sérgio Monteiro,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+07/05/2026 09:43:21,07/05/2026,Instrutor B,1439,Márcio Nunes,Uso de celular,Não,Sem internet no celular,instrutor.b@exemplo.com
+07/05/2026 11:00:07,06/05/2026,Instrutor A,1264,Bruno Rodrigues,Uso de celular,Sim,,instrutor.a@exemplo.com
+07/05/2026 13:53:21,07/05/2026,Instrutor A,1660,Wagner Oliveira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+07/05/2026 17:26:26,06/05/2026,Instrutor A,1615,Leandro Miranda,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+08/05/2026 10:30:09,08/05/2026,Instrutor B,1463,Wagner Souza,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+08/05/2026 12:16:50,07/05/2026,Instrutor A,1594,Eduardo Ramos,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+08/05/2026 16:34:01,08/05/2026,Instrutor B,1606,André Barbosa,Uso de celular,Sim,,instrutor.b@exemplo.com
+09/05/2026 14:59:47,08/05/2026,Instrutor B,1442,Bruno Dias,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+13/05/2026 13:04:09,13/05/2026,Instrutor C,1099,João Lima,Excesso de velocidade,Não,Problema no cadastro,instrutor.c@exemplo.com
+14/05/2026 15:32:01,14/05/2026,Instrutor C,1498,Jefferson Andrade,Fadiga,Não,Esqueceu a senha,instrutor.c@exemplo.com
+14/05/2026 17:38:24,13/05/2026,Instrutor B,1439,Márcio Nunes,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+15/05/2026 08:17:26,14/05/2026,Instrutor A,1388,Márcio Costa,Cinto de segurança,Não,Celular sem memória,instrutor.a@exemplo.com
+15/05/2026 16:19:11,14/05/2026,Instrutor C,1679,Renato Pereira,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+15/05/2026 16:19:49,15/05/2026,Instrutor A,1671,Bruno Rocha,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+15/05/2026 16:43:08,15/05/2026,Instrutor A,1118,Bruno Batista,Excesso de velocidade,Não,Celular sem memória,instrutor.a@exemplo.com
+18/05/2026 08:06:33,18/05/2026,Instrutor A,1125,Reginaldo Oliveira,Uso de celular,Sim,,instrutor.a@exemplo.com
+18/05/2026 09:13:34,18/05/2026,Instrutor C,1502,Roberto Ramos,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+18/05/2026 12:59:02,18/05/2026,Instrutor C,1254,Reginaldo Souza,Uso de celular,Sim,,instrutor.c@exemplo.com
+18/05/2026 18:57:13,18/05/2026,Instrutor A,1402,Roberto Duarte,Excesso de velocidade,Não,Celular sem memória,instrutor.a@exemplo.com
+19/05/2026 09:17:09,18/05/2026,Instrutor A,1402,Roberto Duarte,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+20/05/2026 08:08:01,20/05/2026,Instrutor C,1471,Wagner Cardoso,Uso de celular,Sim,,instrutor.c@exemplo.com
+20/05/2026 14:25:11,20/05/2026,Instrutor A,1371,Alexandre Ribeiro,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+21/05/2026 12:36:15,20/05/2026,Instrutor A,1695,Cláudio Martins,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+21/05/2026 15:39:22,21/05/2026,Instrutor B,1060,Cláudio Correia,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+22/05/2026 15:06:29,22/05/2026,Instrutor A,1604,Nelson Oliveira,Uso de celular,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+22/05/2026 16:05:59,22/05/2026,Instrutor B,1470,Fernando Pinto,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+25/05/2026 10:55:57,25/05/2026,Instrutor B,1434,André Moura,Fadiga,Não,Celular sem memória,instrutor.b@exemplo.com
+26/05/2026 09:20:35,26/05/2026,Instrutor B,1323,Paulo Machado,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+26/05/2026 10:18:49,26/05/2026,Instrutor A,1240,Sérgio Martins,Uso de celular,Sim,,instrutor.a@exemplo.com
+26/05/2026 13:29:31,25/05/2026,Instrutor B,1677,Wellington Andrade,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+27/05/2026 11:52:44,27/05/2026,Instrutor B,1039,Wagner Carvalho,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+27/05/2026 14:15:39,27/05/2026,Instrutor B,1616,Felipe Souza,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+28/05/2026 08:05:13,28/05/2026,Instrutor A,1297,Alexandre Rodrigues,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+28/05/2026 08:48:09,28/05/2026,Instrutor C,1395,Vinícius Ribeiro,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+28/05/2026 09:37:38,28/05/2026,Instrutor B,1390,Paulo Pereira,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+28/05/2026 09:38:06,28/05/2026,Instrutor A,1008,Alexandre Pinto,Uso de celular,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+28/05/2026 16:44:15,27/05/2026,Instrutor B,1017,Marcos Oliveira,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+29/05/2026 15:12:13,29/05/2026,Instrutor A,1364,Bruno Costa,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+01/06/2026 08:00:45,01/06/2026,Instrutor A,1094,Reginaldo Cardoso,Fadiga,Sim,,instrutor.a@exemplo.com
+01/06/2026 12:58:59,01/06/2026,Instrutor B,1073,Thiago Dias,Fadiga,Não,Celular sem memória,instrutor.b@exemplo.com
+02/06/2026 08:15:27,02/06/2026,Instrutor A,1518,Lucas Santos,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+02/06/2026 16:25:54,01/06/2026,Instrutor A,1247,Wagner Ramos,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+03/06/2026 14:27:34,03/06/2026,Instrutor A,1669,Renato Andrade,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+04/06/2026 10:05:08,04/06/2026,Instrutor B,1207,Thiago Machado,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+05/06/2026 09:41:01,04/06/2026,Instrutor B,1066,Daniel Campos,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+05/06/2026 13:53:26,04/06/2026,Instrutor A,1324,Roberto Nunes,Fadiga,Sim,,instrutor.a@exemplo.com
+05/06/2026 14:39:11,05/06/2026,Instrutor C,1439,Márcio Nunes,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+08/06/2026 11:11:27,08/06/2026,Instrutor C,1206,Renato Moura,Uso de celular,Sim,,instrutor.c@exemplo.com
+08/06/2026 16:17:26,08/06/2026,Instrutor C,1197,Mateus Rocha,Uso de celular,Sim,,instrutor.c@exemplo.com
+09/06/2026 16:54:48,09/06/2026,Instrutor B,1166,Mateus Martins,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+10/06/2026 09:15:30,10/06/2026,Instrutor A,1439,Márcio Nunes,Uso de celular,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+10/06/2026 15:45:23,09/06/2026,Instrutor A,1105,Lucas Nascimento,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+10/06/2026 16:57:30,10/06/2026,Instrutor C,1671,Bruno Rocha,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+11/06/2026 08:40:30,11/06/2026,Instrutor B,1124,Adriano Andrade,Uso de celular,Sim,,instrutor.b@exemplo.com
+11/06/2026 12:08:39,11/06/2026,Instrutor A,1071,João Vieira,Cinto de segurança,Não,Esqueceu a senha,instrutor.a@exemplo.com
+11/06/2026 17:01:18,11/06/2026,Instrutor B,1207,Thiago Machado,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+11/06/2026 17:19:39,10/06/2026,Instrutor B,1608,Márcio Andrade,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+11/06/2026 17:47:09,11/06/2026,Instrutor A,1285,Cristiano Lima,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+12/06/2026 11:31:11,12/06/2026,Instrutor A,1439,Márcio Nunes,Cinto de segurança,Não,Celular sem memória,instrutor.a@exemplo.com
+12/06/2026 12:18:10,11/06/2026,Instrutor A,1664,Thiago Lopes,Fadiga,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+15/06/2026 10:53:31,15/06/2026,Instrutor A,1439,Márcio Nunes,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+16/06/2026 09:03:10,16/06/2026,Instrutor A,1446,Paulo Castro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+16/06/2026 18:10:13,16/06/2026,Instrutor A,1390,Paulo Pereira,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+17/06/2026 16:14:24,17/06/2026,Instrutor B,1687,Marcos Barbosa,Frenagem brusca,Não,Celular sem memória,instrutor.b@exemplo.com
+18/06/2026 08:06:58,18/06/2026,Instrutor C,1518,Lucas Santos,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+18/06/2026 12:59:51,18/06/2026,Instrutor B,1207,Thiago Machado,Uso de celular,Sim,,instrutor.b@exemplo.com
+18/06/2026 18:54:17,18/06/2026,Instrutor C,1207,Thiago Machado,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+19/06/2026 08:26:06,19/06/2026,Instrutor B,1501,Alexandre Teixeira,Uso de celular,Não,Celular sem memória,instrutor.b@exemplo.com
+19/06/2026 14:29:49,19/06/2026,Instrutor A,1082,Diego Nascimento,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+19/06/2026 16:21:43,19/06/2026,Instrutor B,1693,Josué Duarte,Excesso de velocidade,Não,Sem internet no celular,instrutor.b@exemplo.com
+23/06/2026 08:01:39,22/06/2026,Instrutor B,1593,Bruno Ferreira,Fadiga,Sim,,instrutor.b@exemplo.com
+23/06/2026 17:40:07,23/06/2026,Instrutor B,1582,Diego Martins,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+23/06/2026 18:36:51,23/06/2026,Instrutor A,1443,Rafael Barbosa,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+25/06/2026 13:03:16,25/06/2026,Instrutor C,1439,Márcio Nunes,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+25/06/2026 18:49:49,25/06/2026,Instrutor C,1022,Diego Pinto,Excesso de velocidade,Não,Esqueceu a senha,instrutor.c@exemplo.com
+26/06/2026 11:39:25,25/06/2026,Instrutor B,1647,Anderson Silva,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+26/06/2026 15:42:59,25/06/2026,Instrutor B,1646,Sérgio Monteiro,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+27/06/2026 11:39:41,26/06/2026,Instrutor A,1226,Fernando Vieira,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+27/06/2026 12:49:28,26/06/2026,Instrutor A,1446,Paulo Castro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+29/06/2026 08:42:24,29/06/2026,Instrutor B,1234,Pedro Silva,Uso de celular,Sim,,instrutor.b@exemplo.com
+29/06/2026 16:45:49,29/06/2026,Instrutor C,1234,Pedro Silva,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+30/06/2026 09:34:14,29/06/2026,Instrutor C,1463,Wagner Souza,Fadiga,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+30/06/2026 09:40:44,30/06/2026,Instrutor A,1390,Paulo Pereira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+30/06/2026 13:21:43,30/06/2026,Instrutor B,1347,Ricardo Santos,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+30/06/2026 13:34:54,30/06/2026,Instrutor C,1449,Rodrigo Lopes,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+30/06/2026 18:12:11,30/06/2026,Instrutor B,1323,Paulo Machado,Fadiga,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+01/07/2026 16:41:19,01/07/2026,Instrutor A,1072,Lucas Lima,Fadiga,Sim,,instrutor.a@exemplo.com
+01/07/2026 18:33:29,01/07/2026,Instrutor A,1039,Wagner Carvalho,Cinto de segurança,Não,Sem internet no celular,instrutor.a@exemplo.com
+02/07/2026 08:02:21,01/07/2026,Instrutor C,1218,Renato Mendes,Cinto de segurança,Não,Esqueceu a senha,instrutor.c@exemplo.com
+02/07/2026 08:15:44,02/07/2026,Instrutor B,1649,Cláudio Santos,Excesso de velocidade,Não,Sem internet no celular,instrutor.b@exemplo.com
+02/07/2026 10:02:12,01/07/2026,Instrutor B,1031,Fábio Moreira,Fadiga,Sim,,instrutor.b@exemplo.com
+02/07/2026 17:14:04,02/07/2026,Instrutor A,1691,Nelson Pereira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+03/07/2026 09:02:47,02/07/2026,Instrutor B,1272,Renato Silva,Uso de celular,Sim,,instrutor.b@exemplo.com
+03/07/2026 09:29:39,02/07/2026,Instrutor C,1590,Márcio Vieira,Uso de celular,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+03/07/2026 10:59:05,03/07/2026,Instrutor B,1122,Felipe Ferreira,Uso de celular,Sim,,instrutor.b@exemplo.com
+03/07/2026 11:48:02,03/07/2026,Instrutor A,1380,Roberto Ribeiro,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+03/07/2026 13:35:10,03/07/2026,Instrutor A,1035,Wagner Santos,Fadiga,Sim,,instrutor.a@exemplo.com
+03/07/2026 18:39:24,03/07/2026,Instrutor A,1105,Lucas Nascimento,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+04/07/2026 18:25:20,03/07/2026,Instrutor C,1270,Sérgio Ferreira,Uso de celular,Não,Sem internet no celular,instrutor.c@exemplo.com
+06/07/2026 15:44:08,06/07/2026,Instrutor A,1624,Eduardo Carvalho,Uso de celular,Sim,,instrutor.a@exemplo.com
+06/07/2026 18:52:50,06/07/2026,Instrutor B,1035,Wagner Santos,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+07/07/2026 09:39:23,07/07/2026,Instrutor A,1032,Diego Correia,Fadiga,Não,Sem internet no celular,instrutor.a@exemplo.com
+07/07/2026 10:39:44,06/07/2026,Instrutor B,1464,Roberto Gomes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+07/07/2026 12:21:39,07/07/2026,Instrutor A,1272,Renato Silva,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+07/07/2026 16:11:10,07/07/2026,Instrutor A,1347,Ricardo Santos,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+08/07/2026 11:17:03,07/07/2026,Instrutor B,1463,Wagner Souza,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+08/07/2026 13:14:06,08/07/2026,Instrutor A,1122,Felipe Ferreira,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+08/07/2026 15:31:11,07/07/2026,Instrutor B,1695,Cláudio Martins,Fadiga,Não,Esqueceu a senha,instrutor.b@exemplo.com
+08/07/2026 15:37:37,08/07/2026,Instrutor A,1388,Márcio Costa,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+09/07/2026 13:08:02,09/07/2026,Instrutor A,1364,Bruno Costa,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+09/07/2026 14:23:08,09/07/2026,Instrutor C,1061,Diego Lima,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+09/07/2026 17:31:03,09/07/2026,Instrutor C,1098,Cláudio Moura,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+10/07/2026 15:26:10,10/07/2026,Instrutor A,1597,Reginaldo Ribeiro,Excesso de velocidade,Não,Celular sem memória,instrutor.a@exemplo.com
+13/07/2026 11:15:20,13/07/2026,Instrutor B,1449,Rodrigo Lopes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+13/07/2026 11:37:30,13/07/2026,Instrutor B,1160,Adriano Rodrigues,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+13/07/2026 14:33:25,13/07/2026,Instrutor B,1631,Vinícius Martins,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+13/07/2026 17:57:00,13/07/2026,Instrutor C,1518,Lucas Santos,Excesso de velocidade,Não,Problema no cadastro,instrutor.c@exemplo.com
+13/07/2026 17:57:10,13/07/2026,Instrutor A,1066,Daniel Campos,Uso de celular,Não,Esqueceu a senha,instrutor.a@exemplo.com
+14/07/2026 11:05:35,14/07/2026,Instrutor C,1176,Cláudio Souza,Uso de celular,Sim,,instrutor.c@exemplo.com
+14/07/2026 13:18:15,14/07/2026,Instrutor B,1439,Márcio Nunes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+14/07/2026 15:54:36,14/07/2026,Instrutor B,1074,Anderson Martins,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+16/07/2026 14:11:50,16/07/2026,Instrutor B,1207,Thiago Machado,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+16/07/2026 14:57:44,16/07/2026,Instrutor A,1274,Cláudio Lopes,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+16/07/2026 17:34:36,16/07/2026,Instrutor B,1224,Valdir Duarte,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+17/07/2026 08:32:58,17/07/2026,Instrutor A,1430,Bruno Monteiro,Cinto de segurança,Não,Esqueceu a senha,instrutor.a@exemplo.com
+17/07/2026 10:21:15,17/07/2026,Instrutor B,1681,Fernando Nascimento,Uso de celular,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+17/07/2026 13:23:11,17/07/2026,Instrutor A,1264,Bruno Rodrigues,Uso de celular,Sim,,instrutor.a@exemplo.com
+20/07/2026 08:04:23,20/07/2026,Instrutor B,1671,Bruno Rocha,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+20/07/2026 09:06:10,20/07/2026,Instrutor A,1012,João Oliveira,Uso de celular,Não,Sem internet no celular,instrutor.a@exemplo.com
+20/07/2026 09:12:57,20/07/2026,Instrutor B,1296,Paulo Cardoso,Excesso de velocidade,Não,Celular sem memória,instrutor.b@exemplo.com
+20/07/2026 11:48:47,20/07/2026,Instrutor C,1501,Alexandre Teixeira,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+20/07/2026 16:43:52,20/07/2026,Instrutor B,1439,Márcio Nunes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+21/07/2026 11:53:33,21/07/2026,Instrutor A,1007,Cláudio Andrade,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+21/07/2026 14:28:47,21/07/2026,Instrutor C,1095,Cristiano Vieira,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+21/07/2026 18:01:18,21/07/2026,Instrutor C,1128,Carlos Miranda,Uso de celular,Sim,,instrutor.c@exemplo.com
+22/07/2026 08:09:22,22/07/2026,Instrutor C,1558,Vinícius Nascimento,Fadiga,Não,Sem internet no celular,instrutor.c@exemplo.com
+22/07/2026 10:11:53,22/07/2026,Instrutor A,1240,Sérgio Martins,Fadiga,Sim,,instrutor.a@exemplo.com
+22/07/2026 12:10:50,22/07/2026,Instrutor B,1008,Alexandre Pinto,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+22/07/2026 17:42:44,22/07/2026,Instrutor B,1390,Paulo Pereira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+24/07/2026 08:42:20,24/07/2026,Instrutor A,1207,Thiago Machado,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+24/07/2026 09:02:20,24/07/2026,Instrutor C,1240,Sérgio Martins,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+24/07/2026 16:19:07,24/07/2026,Instrutor B,1579,Rodrigo Ramos,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+27/07/2026 13:09:00,27/07/2026,Instrutor A,1204,Elias Lima,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+28/07/2026 10:51:36,28/07/2026,Instrutor C,1082,Diego Nascimento,Fadiga,Sim,,instrutor.c@exemplo.com
+28/07/2026 12:30:57,28/07/2026,Instrutor B,1012,João Oliveira,Fadiga,Sim,,instrutor.b@exemplo.com
+29/07/2026 11:50:59,29/07/2026,Instrutor B,1506,Ricardo Lopes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+30/07/2026 08:58:42,30/07/2026,Instrutor B,1619,Marcos Martins,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+30/07/2026 11:28:22,29/07/2026,Instrutor A,1532,Fábio Souza,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+30/07/2026 15:57:02,29/07/2026,Instrutor A,1204,Elias Lima,Uso de celular,Sim,,instrutor.a@exemplo.com
+30/07/2026 18:42:05,30/07/2026,Instrutor A,1439,Márcio Nunes,Frenagem brusca,Não,Sem internet no celular,instrutor.a@exemplo.com
+31/07/2026 11:46:56,31/07/2026,Instrutor B,1664,Thiago Lopes,Fadiga,Sim,,instrutor.b@exemplo.com
+31/07/2026 12:30:55,31/07/2026,Instrutor B,1157,Leandro Ribeiro,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+31/07/2026 13:00:18,31/07/2026,Instrutor C,1631,Vinícius Martins,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+31/07/2026 14:46:57,31/07/2026,Instrutor C,1207,Thiago Machado,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+03/08/2026 08:52:52,03/08/2026,Instrutor A,1671,Bruno Rocha,Uso de celular,Sim,,instrutor.a@exemplo.com
+03/08/2026 14:05:00,03/08/2026,Instrutor C,1331,Ricardo Moura,Fadiga,Sim,,instrutor.c@exemplo.com
+03/08/2026 15:07:41,03/08/2026,Instrutor C,1641,Edson Farias,Excesso de velocidade,Não,Esqueceu a senha,instrutor.c@exemplo.com
+04/08/2026 08:07:48,04/08/2026,Instrutor C,1372,André Pinto,Fadiga,Sim,,instrutor.c@exemplo.com
+04/08/2026 09:23:32,04/08/2026,Instrutor B,1632,Josué Ramos,Excesso de velocidade,Não,Celular sem memória,instrutor.b@exemplo.com
+04/08/2026 11:01:50,03/08/2026,Instrutor B,1270,Sérgio Ferreira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+04/08/2026 17:30:36,04/08/2026,Instrutor A,1691,Nelson Pereira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+04/08/2026 17:48:58,03/08/2026,Instrutor B,1315,Anderson Ribeiro,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+05/08/2026 13:03:18,05/08/2026,Instrutor A,1501,Alexandre Teixeira,Uso de celular,Sim,,instrutor.a@exemplo.com
+05/08/2026 15:56:44,04/08/2026,Instrutor B,1674,Daniel Teixeira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+06/08/2026 10:00:08,06/08/2026,Instrutor B,1225,Márcio Gomes,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+06/08/2026 17:44:53,06/08/2026,Instrutor A,1652,Cristiano Pereira,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+06/08/2026 18:51:19,06/08/2026,Instrutor B,1615,Leandro Miranda,Uso de celular,Não,Celular sem memória,instrutor.b@exemplo.com
+07/08/2026 10:06:13,06/08/2026,Instrutor B,1389,Pedro Batista,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+07/08/2026 18:11:48,06/08/2026,Instrutor A,1474,Paulo Pinto,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+08/08/2026 14:29:58,07/08/2026,Instrutor B,1320,João Pinto,Cinto de segurança,Não,Problema no cadastro,instrutor.b@exemplo.com
+10/08/2026 13:08:52,10/08/2026,Instrutor B,1160,Adriano Rodrigues,Fadiga,Sim,,instrutor.b@exemplo.com
+11/08/2026 09:04:01,11/08/2026,Instrutor B,1585,Edson Correia,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+11/08/2026 10:45:19,10/08/2026,Instrutor B,1129,Jefferson Batista,Cinto de segurança,Não,Esqueceu a senha,instrutor.b@exemplo.com
+11/08/2026 11:19:08,11/08/2026,Instrutor C,1674,Daniel Teixeira,Fadiga,Sim,,instrutor.c@exemplo.com
+12/08/2026 11:11:42,12/08/2026,Instrutor B,1254,Reginaldo Souza,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+12/08/2026 18:32:37,11/08/2026,Instrutor A,1584,Wellington Ramos,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+13/08/2026 09:52:37,13/08/2026,Instrutor A,1402,Roberto Duarte,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+13/08/2026 10:57:48,13/08/2026,Instrutor B,1275,Alexandre Souza,Fadiga,Não,Esqueceu a senha,instrutor.b@exemplo.com
+13/08/2026 18:00:48,12/08/2026,Instrutor A,1597,Reginaldo Ribeiro,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+14/08/2026 09:29:07,14/08/2026,Instrutor A,1506,Ricardo Lopes,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+14/08/2026 13:24:27,14/08/2026,Instrutor C,1235,Alexandre Barbosa,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+14/08/2026 15:14:35,14/08/2026,Instrutor B,1264,Bruno Rodrigues,Fadiga,Sim,,instrutor.b@exemplo.com
+14/08/2026 15:23:44,14/08/2026,Instrutor A,1157,Leandro Ribeiro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+14/08/2026 17:22:22,13/08/2026,Instrutor C,1430,Bruno Monteiro,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+15/08/2026 09:20:31,14/08/2026,Instrutor A,1532,Fábio Souza,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+15/08/2026 15:43:23,14/08/2026,Instrutor B,1234,Pedro Silva,Fadiga,Não,Sem internet no celular,instrutor.b@exemplo.com
+18/08/2026 10:04:23,18/08/2026,Instrutor B,1118,Bruno Batista,Frenagem brusca,Não,Sem internet no celular,instrutor.b@exemplo.com
+18/08/2026 14:46:31,18/08/2026,Instrutor C,1671,Bruno Rocha,Uso de celular,Sim,,instrutor.c@exemplo.com
+18/08/2026 18:43:05,17/08/2026,Instrutor A,1147,Reginaldo Araújo,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+19/08/2026 08:27:56,19/08/2026,Instrutor C,1293,Valdir Martins,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+19/08/2026 09:42:48,19/08/2026,Instrutor B,1008,Alexandre Pinto,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+19/08/2026 10:01:06,19/08/2026,Instrutor B,1124,Adriano Andrade,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+19/08/2026 10:24:38,19/08/2026,Instrutor B,1353,Rodrigo Mendes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+19/08/2026 12:09:49,19/08/2026,Instrutor B,1414,Marcos Nunes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+19/08/2026 15:31:32,19/08/2026,Instrutor B,1646,Sérgio Monteiro,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+19/08/2026 18:25:22,19/08/2026,Instrutor B,1049,Adriano Miranda,Uso de celular,Sim,,instrutor.b@exemplo.com
+20/08/2026 08:25:16,20/08/2026,Instrutor B,1598,Wagner Machado,Fadiga,Sim,,instrutor.b@exemplo.com
+20/08/2026 10:31:27,19/08/2026,Instrutor C,1692,Carlos Ramos,Uso de celular,Não,Sem internet no celular,instrutor.c@exemplo.com
+20/08/2026 15:02:02,19/08/2026,Instrutor A,1143,Gustavo Monteiro,Uso de celular,Sim,,instrutor.a@exemplo.com
+20/08/2026 18:35:43,20/08/2026,Instrutor A,1502,Roberto Ramos,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+21/08/2026 17:01:48,21/08/2026,Instrutor C,1073,Thiago Dias,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+22/08/2026 12:20:03,21/08/2026,Instrutor B,1593,Bruno Ferreira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+24/08/2026 08:44:30,24/08/2026,Instrutor B,1049,Adriano Miranda,Fadiga,Sim,,instrutor.b@exemplo.com
+24/08/2026 09:53:54,24/08/2026,Instrutor B,1045,Eduardo Campos,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+24/08/2026 12:04:36,24/08/2026,Instrutor B,1649,Cláudio Santos,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+24/08/2026 13:02:29,24/08/2026,Instrutor A,1231,Rafael Castro,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+24/08/2026 14:51:14,24/08/2026,Instrutor A,1632,Josué Ramos,Fadiga,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+24/08/2026 17:06:51,24/08/2026,Instrutor A,1506,Ricardo Lopes,Uso de celular,Sim,,instrutor.a@exemplo.com
+24/08/2026 18:21:10,24/08/2026,Instrutor A,1513,Daniel Rodrigues,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+25/08/2026 09:58:44,24/08/2026,Instrutor A,1439,Márcio Nunes,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+25/08/2026 12:39:32,25/08/2026,Instrutor A,1430,Bruno Monteiro,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+25/08/2026 13:26:22,24/08/2026,Instrutor A,1604,Nelson Oliveira,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+25/08/2026 15:17:59,25/08/2026,Instrutor C,1345,Sérgio Pereira,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+25/08/2026 16:55:11,25/08/2026,Instrutor A,1285,Cristiano Lima,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+25/08/2026 18:52:19,25/08/2026,Instrutor A,1270,Sérgio Ferreira,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+26/08/2026 12:54:27,26/08/2026,Instrutor A,1582,Diego Martins,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+26/08/2026 17:46:40,25/08/2026,Instrutor C,1293,Valdir Martins,Excesso de velocidade,Não,Sem internet no celular,instrutor.c@exemplo.com
+27/08/2026 14:17:52,27/08/2026,Instrutor C,1183,Daniel Farias,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+28/08/2026 11:07:09,27/08/2026,Instrutor B,1434,André Moura,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+28/08/2026 12:50:51,28/08/2026,Instrutor A,1513,Daniel Rodrigues,Uso de celular,Sim,,instrutor.a@exemplo.com
+28/08/2026 16:27:27,28/08/2026,Instrutor C,1297,Alexandre Rodrigues,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+31/08/2026 09:57:26,31/08/2026,Instrutor A,1573,Rodrigo Almeida,Uso de celular,Sim,,instrutor.a@exemplo.com
+31/08/2026 10:15:07,31/08/2026,Instrutor C,1575,Eduardo Santos,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+01/09/2026 13:21:53,01/09/2026,Instrutor A,1264,Bruno Rodrigues,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+01/09/2026 15:50:01,31/08/2026,Instrutor B,1474,Paulo Pinto,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+01/09/2026 17:49:59,01/09/2026,Instrutor A,1692,Carlos Ramos,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+02/09/2026 14:13:09,01/09/2026,Instrutor B,1411,Adriano Duarte,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+02/09/2026 15:43:15,02/09/2026,Instrutor A,1225,Márcio Gomes,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+02/09/2026 17:03:31,02/09/2026,Instrutor A,1464,Roberto Gomes,Uso de celular,Sim,,instrutor.a@exemplo.com
+03/09/2026 13:52:19,02/09/2026,Instrutor C,1167,Wellington Oliveira,Fadiga,Sim,,instrutor.c@exemplo.com
+03/09/2026 13:57:51,03/09/2026,Instrutor B,1020,Wagner Lima,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+03/09/2026 18:51:03,03/09/2026,Instrutor B,1347,Ricardo Santos,Cinto de segurança,Não,Esqueceu a senha,instrutor.b@exemplo.com
+04/09/2026 08:58:25,04/09/2026,Instrutor A,1235,Alexandre Barbosa,Fadiga,Sim,,instrutor.a@exemplo.com
+04/09/2026 11:19:13,04/09/2026,Instrutor A,1017,Marcos Oliveira,Excesso de velocidade,Não,Celular sem memória,instrutor.a@exemplo.com
+05/09/2026 18:26:50,04/09/2026,Instrutor A,1277,André Araújo,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+07/09/2026 14:59:53,07/09/2026,Instrutor C,1443,Rafael Barbosa,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+08/09/2026 10:00:25,08/09/2026,Instrutor B,1115,Paulo Santos,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+08/09/2026 10:44:16,08/09/2026,Instrutor C,1237,Thiago Cardoso,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+08/09/2026 11:33:45,08/09/2026,Instrutor B,1498,Jefferson Andrade,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+09/09/2026 10:03:25,09/09/2026,Instrutor A,1615,Leandro Miranda,Uso de celular,Sim,,instrutor.a@exemplo.com
+09/09/2026 13:29:44,08/09/2026,Instrutor B,1501,Alexandre Teixeira,Excesso de velocidade,Não,Sem internet no celular,instrutor.b@exemplo.com
+09/09/2026 14:53:56,09/09/2026,Instrutor B,1462,Diego Gomes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+09/09/2026 17:40:14,09/09/2026,Instrutor A,1174,Carlos Farias,Fadiga,Sim,,instrutor.a@exemplo.com
+09/09/2026 17:52:20,09/09/2026,Instrutor A,1383,Thiago Farias,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+09/09/2026 18:26:50,09/09/2026,Instrutor C,1105,Lucas Nascimento,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+10/09/2026 15:07:14,10/09/2026,Instrutor C,1567,Fábio Almeida,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+10/09/2026 15:24:08,10/09/2026,Instrutor C,1035,Wagner Santos,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+10/09/2026 15:58:15,10/09/2026,Instrutor C,1104,Marcos Almeida,Uso de celular,Sim,,instrutor.c@exemplo.com
+11/09/2026 10:36:07,10/09/2026,Instrutor A,1239,Lucas Teixeira,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.a@exemplo.com
+11/09/2026 10:55:20,11/09/2026,Instrutor B,1017,Marcos Oliveira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+11/09/2026 18:12:26,10/09/2026,Instrutor A,1020,Wagner Lima,Cinto de segurança,Não,Esqueceu a senha,instrutor.a@exemplo.com
+14/09/2026 08:00:16,14/09/2026,Instrutor B,1128,Carlos Miranda,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+14/09/2026 11:30:58,14/09/2026,Instrutor A,1333,André Souza,Uso de celular,Sim,,instrutor.a@exemplo.com
+14/09/2026 14:47:38,14/09/2026,Instrutor A,1039,Wagner Carvalho,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+15/09/2026 09:20:02,15/09/2026,Instrutor B,1389,Pedro Batista,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+15/09/2026 13:59:27,15/09/2026,Instrutor C,1160,Adriano Rodrigues,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+16/09/2026 10:35:54,16/09/2026,Instrutor B,1008,Alexandre Pinto,Uso de celular,Sim,,instrutor.b@exemplo.com
+16/09/2026 10:57:35,15/09/2026,Instrutor C,1542,Leandro Nunes,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+16/09/2026 12:33:20,16/09/2026,Instrutor B,1506,Ricardo Lopes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+16/09/2026 13:56:29,15/09/2026,Instrutor A,1098,Cláudio Moura,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+16/09/2026 15:02:28,16/09/2026,Instrutor B,1058,Fábio Monteiro,Uso de celular,Sim,,instrutor.b@exemplo.com
+17/09/2026 08:14:11,16/09/2026,Instrutor B,1434,André Moura,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+18/09/2026 08:33:49,18/09/2026,Instrutor A,1502,Roberto Ramos,Frenagem brusca,Não,Esqueceu a senha,instrutor.a@exemplo.com
+18/09/2026 08:51:41,18/09/2026,Instrutor C,1652,Cristiano Pereira,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+18/09/2026 10:07:22,17/09/2026,Instrutor B,1020,Wagner Lima,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+18/09/2026 13:01:18,18/09/2026,Instrutor C,1028,Elias Farias,Uso de celular,Sim,,instrutor.c@exemplo.com
+18/09/2026 15:20:46,18/09/2026,Instrutor C,1264,Bruno Rodrigues,Fadiga,Sim,,instrutor.c@exemplo.com
+18/09/2026 15:40:17,18/09/2026,Instrutor C,1229,Mateus Batista,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+18/09/2026 16:52:17,18/09/2026,Instrutor A,1529,Daniel Castro,Uso de celular,Sim,,instrutor.a@exemplo.com
+18/09/2026 17:24:05,18/09/2026,Instrutor B,1109,Sérgio Campos,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+19/09/2026 09:53:20,18/09/2026,Instrutor A,1389,Pedro Batista,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+22/09/2026 09:01:54,22/09/2026,Instrutor C,1430,Bruno Monteiro,Frenagem brusca,Não,Celular sem memória,instrutor.c@exemplo.com
+22/09/2026 10:07:19,22/09/2026,Instrutor B,1264,Bruno Rodrigues,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+24/09/2026 10:22:42,23/09/2026,Instrutor A,1390,Paulo Pereira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+24/09/2026 14:30:17,24/09/2026,Instrutor A,1183,Daniel Farias,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+24/09/2026 17:11:27,24/09/2026,Instrutor C,1544,Thiago Campos,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+24/09/2026 18:14:41,24/09/2026,Instrutor B,1246,Marcos Dias,Excesso de velocidade,Não,Sem internet no celular,instrutor.b@exemplo.com
+25/09/2026 18:57:19,25/09/2026,Instrutor A,1125,Reginaldo Oliveira,Frenagem brusca,Não,Celular sem memória,instrutor.a@exemplo.com
+26/09/2026 12:29:27,25/09/2026,Instrutor B,1272,Renato Silva,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+28/09/2026 08:32:06,28/09/2026,Instrutor A,1285,Cristiano Lima,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+28/09/2026 12:22:16,28/09/2026,Instrutor B,1051,Gustavo Mendes,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+29/09/2026 15:11:50,28/09/2026,Instrutor A,1691,Nelson Pereira,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+30/09/2026 12:20:37,30/09/2026,Instrutor A,1571,Daniel Mendes,Cinto de segurança,Não,Celular sem memória,instrutor.a@exemplo.com
+01/10/2026 14:55:42,01/10/2026,Instrutor A,1590,Márcio Vieira,Uso de celular,Sim,,instrutor.a@exemplo.com
+02/10/2026 08:13:30,02/10/2026,Instrutor B,1634,Nelson Ribeiro,Uso de celular,Sim,,instrutor.b@exemplo.com
+02/10/2026 10:13:11,01/10/2026,Instrutor C,1681,Fernando Nascimento,Fadiga,Sim,,instrutor.c@exemplo.com
+02/10/2026 10:57:09,02/10/2026,Instrutor B,1604,Nelson Oliveira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+02/10/2026 14:34:01,01/10/2026,Instrutor A,1230,Wellington Batista,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+02/10/2026 16:12:05,02/10/2026,Instrutor B,1240,Sérgio Martins,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+02/10/2026 17:23:44,02/10/2026,Instrutor B,1411,Adriano Duarte,Uso de celular,Sim,,instrutor.b@exemplo.com
+03/10/2026 10:08:00,02/10/2026,Instrutor A,1460,Bruno Andrade,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+05/10/2026 08:06:40,05/10/2026,Instrutor C,1374,Pedro Cardoso,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+05/10/2026 08:33:01,05/10/2026,Instrutor C,1343,Daniel Rocha,Frenagem brusca,Sim,,instrutor.c@exemplo.com
+05/10/2026 15:37:15,05/10/2026,Instrutor B,1693,Josué Duarte,Uso de celular,Sim,,instrutor.b@exemplo.com
+05/10/2026 17:38:46,05/10/2026,Instrutor B,1335,Mateus Teixeira,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+05/10/2026 17:46:39,05/10/2026,Instrutor B,1217,Ricardo Andrade,Fadiga,Sim,,instrutor.b@exemplo.com
+06/10/2026 14:56:30,05/10/2026,Instrutor A,1001,Marcos Moreira,Uso de celular,Não,Sem internet no celular,instrutor.a@exemplo.com
+06/10/2026 18:21:58,06/10/2026,Instrutor A,1058,Fábio Monteiro,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+07/10/2026 10:18:46,06/10/2026,Instrutor B,1605,Daniel Moreira,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+07/10/2026 12:46:45,07/10/2026,Instrutor B,1491,Renato Freitas,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+07/10/2026 13:50:30,07/10/2026,Instrutor C,1129,Jefferson Batista,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+07/10/2026 14:31:19,07/10/2026,Instrutor B,1388,Márcio Costa,Uso de celular,Sim,,instrutor.b@exemplo.com
+08/10/2026 09:42:30,07/10/2026,Instrutor B,1333,André Souza,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+08/10/2026 12:22:43,07/10/2026,Instrutor C,1012,João Oliveira,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+08/10/2026 13:50:22,08/10/2026,Instrutor B,1552,Alexandre Lopes,Cinto de segurança,Sim,,instrutor.b@exemplo.com
+09/10/2026 09:21:27,08/10/2026,Instrutor C,1439,Márcio Nunes,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+10/10/2026 16:38:42,09/10/2026,Instrutor B,1651,Mateus Campos,Excesso de velocidade,Não,Problema no cadastro,instrutor.b@exemplo.com
+12/10/2026 09:06:50,12/10/2026,Instrutor C,1099,João Lima,Cinto de segurança,Não,Problema no cadastro,instrutor.c@exemplo.com
+12/10/2026 10:07:54,12/10/2026,Instrutor A,1644,Thiago Moreira,Fadiga,Sim,,instrutor.a@exemplo.com
+12/10/2026 15:48:32,12/10/2026,Instrutor A,1439,Márcio Nunes,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+13/10/2026 09:10:40,12/10/2026,Instrutor C,1047,Renato Barbosa,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+13/10/2026 15:21:18,13/10/2026,Instrutor C,1529,Daniel Castro,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+14/10/2026 10:51:27,14/10/2026,Instrutor B,1168,Thiago Nascimento,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+14/10/2026 13:40:42,14/10/2026,Instrutor A,1520,Edson Machado,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+15/10/2026 13:20:25,15/10/2026,Instrutor B,1132,Carlos Mendes,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+15/10/2026 18:23:01,15/10/2026,Instrutor B,1479,Jefferson Monteiro,Cinto de segurança,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+16/10/2026 18:56:33,16/10/2026,Instrutor C,1585,Edson Correia,Frenagem brusca,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+17/10/2026 18:59:41,16/10/2026,Instrutor A,1143,Gustavo Monteiro,Uso de celular,Sim,,instrutor.a@exemplo.com
+19/10/2026 15:41:13,19/10/2026,Instrutor C,1566,Fernando Costa,Uso de celular,Sim,,instrutor.c@exemplo.com
+20/10/2026 08:34:21,20/10/2026,Instrutor A,1174,Carlos Farias,Uso de celular,Sim,,instrutor.a@exemplo.com
+20/10/2026 13:56:51,20/10/2026,Instrutor B,1249,Wellington Nascimento,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+20/10/2026 13:58:22,19/10/2026,Instrutor B,1162,André Carvalho,Excesso de velocidade,Não,Sem internet no celular,instrutor.b@exemplo.com
+21/10/2026 10:01:01,21/10/2026,Instrutor B,1162,André Carvalho,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+21/10/2026 12:46:27,21/10/2026,Instrutor A,1529,Daniel Castro,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+21/10/2026 16:18:13,20/10/2026,Instrutor C,1109,Sérgio Campos,Uso de celular,Sim,,instrutor.c@exemplo.com
+21/10/2026 17:47:00,21/10/2026,Instrutor C,1433,Renato Miranda,Fadiga,Sim,,instrutor.c@exemplo.com
+22/10/2026 10:45:27,22/10/2026,Instrutor C,1485,Leandro Gomes,Excesso de velocidade,Sim,,instrutor.c@exemplo.com
+22/10/2026 11:06:20,22/10/2026,Instrutor B,1474,Paulo Pinto,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+22/10/2026 17:45:57,22/10/2026,Instrutor C,1389,Pedro Batista,Uso de celular,Não,Não conhecia o aplicativo,instrutor.c@exemplo.com
+22/10/2026 18:32:22,21/10/2026,Instrutor A,1343,Daniel Rocha,Cinto de segurança,Sim,,instrutor.a@exemplo.com
+22/10/2026 18:50:52,22/10/2026,Instrutor A,1585,Edson Correia,Uso de celular,Sim,,instrutor.a@exemplo.com
+23/10/2026 12:37:31,23/10/2026,Instrutor B,1465,Renato Rodrigues,Fadiga,Sim,,instrutor.b@exemplo.com
+23/10/2026 15:13:28,22/10/2026,Instrutor A,1058,Fábio Monteiro,Uso de celular,Não,Celular sem memória,instrutor.a@exemplo.com
+24/10/2026 14:52:10,23/10/2026,Instrutor B,1332,Bruno Barbosa,Excesso de velocidade,Não,Não conhecia o aplicativo,instrutor.b@exemplo.com
+26/10/2026 16:07:44,26/10/2026,Instrutor A,1182,Wagner Batista,Frenagem brusca,Sim,,instrutor.a@exemplo.com
+27/10/2026 13:58:07,27/10/2026,Instrutor B,1495,Roberto Castro,Frenagem brusca,Não,Esqueceu a senha,instrutor.b@exemplo.com
+28/10/2026 10:07:23,28/10/2026,Instrutor B,1147,Reginaldo Araújo,Frenagem brusca,Sim,,instrutor.b@exemplo.com
+28/10/2026 10:09:50,28/10/2026,Instrutor A,1615,Leandro Miranda,Excesso de velocidade,Sim,,instrutor.a@exemplo.com
+28/10/2026 11:11:52,28/10/2026,Instrutor C,1271,Wellington Moreira,Excesso de velocidade,Não,Sem internet no celular,instrutor.c@exemplo.com
+28/10/2026 15:36:19,28/10/2026,Instrutor A,1604,Nelson Oliveira,Fadiga,Sim,,instrutor.a@exemplo.com
+29/10/2026 10:55:46,29/10/2026,Instrutor C,1204,Elias Lima,Cinto de segurança,Sim,,instrutor.c@exemplo.com
+30/10/2026 11:57:25,30/10/2026,Instrutor B,1008,Alexandre Pinto,Excesso de velocidade,Sim,,instrutor.b@exemplo.com
+30/10/2026 12:41:05,30/10/2026,Instrutor B,1487,Márcio Pinto,Uso de celular,Sim,,instrutor.b@exemplo.com
+30/10/2026 17:08:48,29/10/2026,Instrutor C,1434,André Moura,Uso de celular,Sim,,instrutor.c@exemplo.com
+31/10/2026 12:35:41,30/10/2026,Instrutor B,1246,Marcos Dias,Uso de celular,Sim,,instrutor.b@exemplo.com
