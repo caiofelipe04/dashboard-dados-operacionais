@@ -6,7 +6,7 @@ Dashboard de indicadores operacionais construído no Looker Studio, a partir de 
 
 🔗 **Dashboard interativo:** [link público do Looker Studio(https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)]
 
-![Visão geral do dashboard](imagens/dashboard-geral.pdf)
+![Visão geral do dashboard](Imagens/dashboard-geral.pdf)
 
 ---
 
