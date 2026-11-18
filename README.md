@@ -19,16 +19,16 @@ O painel permite acompanhar os indicadores por período, instrutor e tipo de abo
 - Quais motoristas são abordados mais de uma vez (reincidência)?
 - Qual a adesão ao aplicativo e por que parte da equipe não o utiliza?
 
-![Visão filtrada por instrutor](imagens/dashboard-por-instrutor.png)
+![Visão filtrada por instrutor](imagens/dashboard-por-instrutor.pdf)
 
-## Principais conclusões
+## O que a análise mostra e o que fazer com isso
 
-Leitura do painel com dados fictícios, no período de nov/2025 a out/2026 (700 abordagens, 250 motoristas):
+Interpretação dos dados fictícios (nov/2025 a out/2026). Os padrões são ilustrativos, o objetivo é mostrar como o painel vira decisão:
 
-- Os instrutores B e A concentram a maior parte das abordagens (269 e 265), contra 166 do instrutor C.
-- "Excesso de velocidade" é o tipo mais frequente (29,3%), seguido de "Frenagem brusca" (25,6%).
-- Um motorista foi abordado 27 vezes, mais que o dobro do segundo da lista (13).
-- 67,3% das abordagens são de motoristas que usam o aplicativo. Entre os que não usam, o motivo mais comum é "Não conhecia o aplicativo" (64 casos).
+- **A reincidência está concentrada em poucos motoristas.** Um deles foi abordado 27 vezes, mais que o dobro do segundo (13). *Ação:* acompanhamento individual desses casos, em vez de repetir a mesma abordagem.
+- **Dois tipos de abordagem somam cerca de 55% do total:** "Excesso de velocidade" (29,3%) e "Frenagem brusca" (25,6%). *Ação:* priorizar esses temas nos treinamentos.
+- **O maior motivo isolado para não usar o aplicativo é desconhecimento** (64 dos 229 casos sem uso). *Ação:* divulgação e orientação inicial tendem a ter mais efeito do que suporte técnico, que fica para senha (54) e cadastro (22).
+- **O instrutor C fez menos abordagens (166) que A e B (265 e 269).** Pode refletir menos dias dedicados a abordagem. *Ação:* antes de comparar desempenho, normalizar as abordagens pelos dias trabalhados.
 
 ## Tecnologias
 
@@ -40,6 +40,7 @@ Google Forms (coleta) → Google Sheets (base de dados) → Looker Studio (dashb
 ├── dados/abordagens_ficticias.csv       # base fictícia do dashboard
 ├── scripts/gerar_dados_ficticios.py     # script que gera o CSV
 ├── imagens/                             # prints do dashboard
+├── docs/dicionario-de-dados.md          # descrição das colunas e indicadores
 └── README.md
 ```
 
