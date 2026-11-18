@@ -1,99 +1,58 @@
 # Dashboard-Dados-Operacionais
 
-Dashboard de indicadores operacionais construído no Looker Studio, a partir de dados coletados por um Google Forms e organizados no Google Sheets.
+Dashboard de abordagens operacionais no Looker Studio, com dados coletados por Google Forms e organizados no Google Sheets.
 
-> **Aviso:** os dados deste repositório são **fictícios**, gerados por script, e mantêm a mesma estrutura da base real. O projeto foi inspirado em um caso real de acompanhamento de abordagens operacionais, sem expor nenhuma informação da empresa ou das pessoas envolvidas.
+> **Dados fictícios:** a base deste repositório foi gerada por script e mantém a estrutura da base real. O projeto é inspirado em um caso real, sem expor informações da empresa ou das pessoas envolvidas.
 
-🔗 **Dashboard interativo:** [link público do Looker Studio(https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)]
+🔗 **[Abrir o dashboard interativo](https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)**
 
-![Visão geral do dashboard](Imagens/dashboard-geral.pdf)
+[![Visão geral do dashboard](imagens/dashboard-geral.png)](https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)
 
----
+## Sobre o projeto
 
-## Contexto e motivação
+Ao ingressar na empresa, percebi que os dados operacionais estavam espalhados em várias planilhas e sistemas, o que dificultava transformá-los em informação para decisão. Conversei com a gerência e propus centralizá-los em um painel claro, para gestores e equipe operacional.
 
-Ao ingressar na empresa, identifiquei oportunidades de melhoria na forma como os dados operacionais eram organizados, visualizados e interpretados. A existência de diversas planilhas e sistemas dificultava a compreensão de determinadas informações e tornava mais desafiador transformar os dados em informações úteis para a tomada de decisão.
-
-A partir dessa observação, conversei com a gerência sobre a possibilidade de tornar essas informações mais claras, acessíveis e organizadas, tanto para os gestores quanto para a equipe operacional.
-
-## Objetivo
-
-Desenvolver um dashboard de indicadores operacionais no Looker Studio, conectado a uma base no Google Sheets alimentada por respostas de um Google Forms preenchido pela equipe operacional.
-
-A proposta é centralizar a visualização dos dados, facilitar o acompanhamento dos indicadores e permitir análises por período, instrutor e categoria, contribuindo para a identificação de tendências e oportunidades de melhoria nos processos.
-
-## Perguntas que o dashboard responde
+O painel permite acompanhar os indicadores por período, instrutor e tipo de abordagem, e responde:
 
 - Quantas abordagens cada instrutor realizou por mês?
-- Quais são os tipos de abordagem mais frequentes?
-- Quantas vezes a mesma pessoa foi abordada (reincidência)?
-- Qual a adesão ao aplicativo utilizado pela equipe e quais os motivos de quem não utiliza?
+- Quais tipos de abordagem são mais frequentes?
+- Quais motoristas são abordados mais de uma vez (reincidência)?
+- Qual a adesão ao aplicativo e por que parte da equipe não o utiliza?
+
+![Visão filtrada por instrutor](imagens/dashboard-por-instrutor.png)
 
 ## Principais conclusões
 
-> Preencher depois de montar o painel com os dados fictícios, com 3 a 5 conclusões objetivas. Exemplo de formato:
->
-> - O tipo de abordagem **[X]** representa **[N]%** do total.
-> - **[N]** pessoas foram abordadas mais de uma vez no período.
-> - O instrutor **[X]** concentrou **[N]%** das abordagens no mês de **[Y]**.
+Leitura do painel com dados fictícios, no período de nov/2025 a out/2026 (700 abordagens, 250 motoristas):
 
-## Fluxo dos dados
+- Os instrutores B e A concentram a maior parte das abordagens (269 e 265), contra 166 do instrutor C.
+- "Excesso de velocidade" é o tipo mais frequente (29,3%), seguido de "Frenagem brusca" (25,6%).
+- Um motorista foi abordado 27 vezes, mais que o dobro do segundo da lista (13).
+- 67,3% das abordagens são de motoristas que usam o aplicativo. Entre os que não usam, o motivo mais comum é "Não conhecia o aplicativo" (64 casos).
 
-```
-Google Forms  →  Google Sheets  →  Looker Studio
-(coleta)         (base de dados)    (dashboard)
-```
+## Tecnologias
 
-Neste repositório, o Google Forms é substituído por um script em Python que gera dados fictícios, salvos em CSV e importados no Google Sheets.
-
-## Tecnologias utilizadas
-
-- **Google Forms:** coleta de informações operacionais.
-- **Google Sheets:** armazenamento e organização inicial dos dados.
-- **Google Looker Studio:** visualização de indicadores e construção do dashboard.
-- **Python:** geração dos dados fictícios para este repositório.
+Google Forms (coleta) → Google Sheets (base de dados) → Looker Studio (dashboard). Python para gerar os dados fictícios.
 
 ## Estrutura do repositório
 
 ```
-Dashboard-Dados-Operacionais/
-├── README.md
-├── dados/
-│   └── abordagens_ficticias.csv      # base fictícia usada no dashboard
-├── scripts/
-│   └── gerar_dados_ficticios.py      # script que gera o CSV
-├── imagens/
-│   ├── dashboard-geral.png           # visão geral do painel
-│   └── dashboard-por-instrutor.png   # visão por instrutor
-└── docs/
-    └── dicionario-de-dados.md        # descrição de cada coluna da base
+├── dados/abordagens_ficticias.csv       # base fictícia do dashboard
+├── scripts/gerar_dados_ficticios.py     # script que gera o CSV
+├── imagens/                             # prints do dashboard
+└── README.md
 ```
 
 ## Como reproduzir
 
-1. Execute o script `scripts/gerar_dados_ficticios.py` para gerar o arquivo CSV (ou use o que já está em `dados/`).
+1. Rode `scripts/gerar_dados_ficticios.py` (ou use o CSV que já está em `dados/`).
 2. Importe o CSV em uma planilha do Google Sheets.
-3. No Looker Studio, crie uma nova fonte de dados conectada a essa planilha.
-4. Monte os gráficos conforme as perguntas listadas acima.
+3. Conecte a planilha ao Looker Studio e monte os gráficos.
 
-## Status do projeto
+## Status
 
-Em desenvolvimento, com foco na organização dos dados, criação de indicadores e melhoria da visualização das informações operacionais.
+Versão com dados fictícios concluída.
 
-| Etapa | Situação |
-|---|---|
-| Coleta via Google Forms e organização no Google Sheets | ✅ Implementado |
-| Dashboard no Looker Studio com indicadores por período, instrutor e categoria | 🔄 Em desenvolvimento |
-| Versão com dados fictícios para este repositório | 🔄 Em desenvolvimento |
-| Envio periódico de informações por e-mail aos instrutores | 📌 Planejado |
+---
 
-> Funcionalidades planejadas são identificadas separadamente das já implementadas.
-
-## Próximos passos
-
-- Automatizar o envio periódico de informações por e-mail aos instrutores, reduzindo tarefas manuais e facilitando o acesso aos dados relevantes.
-
-## Autor
-
-**[Caio Felipe]**
-[www.linkedin.com/in/caiofelipez]
+**Caio Felipe** · [LinkedIn](https://www.linkedin.com/in/caiofelipez)
