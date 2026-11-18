@@ -6,7 +6,7 @@ Dashboard de abordagens operacionais no Looker Studio, com dados coletados por G
 
 🔗 **[Abrir o dashboard interativo](https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)**
 
-[![Visão geral do dashboard](imagens/dashboard-geral.png)](https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)
+[![Visão geral do dashboard](Imagens/dashboard-geral.pdf)](https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)
 
 ## Sobre o projeto
 
@@ -19,7 +19,7 @@ O painel permite acompanhar os indicadores por período, instrutor e tipo de abo
 - Quais motoristas são abordados mais de uma vez (reincidência)?
 - Qual a adesão ao aplicativo e por que parte da equipe não o utiliza?
 
-![Visão filtrada por instrutor](imagens/dashboard-por-instrutor.pdf)
+![Visão filtrada por instrutor](Imagens/dashboard-por-instrutor.pdf)
 
 ## O que a análise mostra e o que fazer com isso
 
