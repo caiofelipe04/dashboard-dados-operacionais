@@ -4,9 +4,9 @@ Dashboard de indicadores operacionais construído no Looker Studio, a partir de 
 
 > **Aviso:** os dados deste repositório são **fictícios**, gerados por script, e mantêm a mesma estrutura da base real. O projeto foi inspirado em um caso real de acompanhamento de abordagens operacionais, sem expor nenhuma informação da empresa ou das pessoas envolvidas.
 
-🔗 **Dashboard interativo:** [link público do Looker Studio(Em andamento)]
+🔗 **Dashboard interativo:** [link público do Looker Studio(https://datastudio.google.com/reporting/ddc1de6f-2510-4faa-98a6-2b43a5152661)]
 
-![Visão geral do dashboard](imagens/dashboard-geral.png)
+![Visão geral do dashboard](imagens/dashboard-geral.pdf)
 
 ---
 
